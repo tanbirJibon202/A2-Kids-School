@@ -45,7 +45,7 @@
             /* border-bottom: 2px solid #FEA301; */
         }
 
-        .navbar, .banner {
+        .navbar, .banner,footer{
             max-width: 1440px;
             margin: 0 auto;
         }
@@ -327,7 +327,7 @@
             display: flex;
             justify-content: space-around;
             padding: 123px 228px 174px 140px;
-            width: 1798px;
+            
             background-color: rgba(1, 172, 253, 1);
             color: white;
           }
